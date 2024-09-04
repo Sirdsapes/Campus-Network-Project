@@ -1,1 +1,2 @@
-<a href="https://ibb.co/CtfQ4HR"><img src="https://i.ibb.co/b3kXYKc/Campus-Net.png" alt="Campus-Net" border="0"></a>
+
+![Campus Net](https://github.com/user-attachments/assets/92802229-e6fb-4137-8bbe-54b99d4a2a73)
